@@ -1,0 +1,429 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bs3-bu",
+				"bs3-button:default	bs3-button-default"
+			],
+			[
+				"bs3-ta",
+				"bs3-table	bs3-table"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"po",
+				"posXpi"
+			],
+			[
+				"bs3-",
+				"bs3-form	bs3-form"
+			],
+			[
+				"bs3",
+				"bs3-form	bs3-form"
+			],
+			[
+				"bs",
+				"bs3-col	bs3-col"
+			],
+			[
+				"bs3-p",
+				"bs3-page-header	bs3-page header"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/acharris/Desktop/index.html",
+			"settings":
+			{
+				"buffer_size": 855,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Insta",
+		"selected_items":
+		[
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contr",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 207.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"https://sublime.wbond.net/"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Personal/Prototipos/mi-aplicacion"
+	],
+	"file_history":
+	[
+		"/C/Users/acharris/Desktop/index",
+		"/C/Personal/Prototipos/mi-aplicacion/src/app/app.component.html",
+		"/C/Personal/Prototipos/mi-aplicacion/src/app/app-routing.module.ts",
+		"/C/Personal/Prototipos/mi-aplicacion/src/index.html",
+		"/C/Personal/Prototipos/mi-aplicacion/src/app/app.component.ts",
+		"/C/Personal/Prototipos/mi-aplicacion/src/app/app.component.css",
+		"/C/Personal/Prototipos/mi-aplicacion/package.json",
+		"/C/Dropbox/Programacion/Proyectos/WEB/MiProyecto/04_Aplicacion/NuevaVersionNodeVue/ApiRest/controllers/UserController.js",
+		"/C/Dropbox/Programacion/Proyectos/WEB/MiProyecto/04_Aplicacion/NuevaVersionNodeVue/ApiRest/app.js",
+		"/C/Dropbox/Programacion/Proyectos/WEB/MiProyecto/04_Aplicacion/NuevaVersionNodeVue/ApiRest/routes/UserRouters.js",
+		"/C/Dropbox/Programacion/Proyectos/WEB/MiProyecto/04_Aplicacion/NuevaVersionNodeVue/ApiRest/index.js",
+		"/C/Dropbox/Programacion/Proyectos/WEB/MiProyecto/04_Aplicacion/NuevaVersionNodeVue/ApiRest/package.json",
+		"/C/Personal/PruebaVue/js/main.js",
+		"/C/Personal/PruebaVue/index.html",
+		"/C/xampp/htdocs/AdminWeb/scripts/services/PaginaServices.js",
+		"/C/xampp/htdocs/AdminWeb/views/pagina/create.html",
+		"//192.168.70.252/Analista_de_negocios/PRESTAMOS/ACHARRIS/Taller/Proyectos/Guias/IntroduccionWeb/index2.html",
+		"/C/xampp/htdocs/AdminWeb/views/pagina/index.html",
+		"/C/xampp/htdocs/AdminWeb/scripts/app.js",
+		"/C/xampp/htdocs/AdminWeb/index.html",
+		"/C/Dropbox/Programacion/Proyectos/WEB/MiProyecto/04_Aplicacion/MiProyecto/resources/views/aplicacion/project/index.blade.php",
+		"/C/xampp/htdocs/AdminWeb/views/main.html",
+		"/C/xampp/htdocs/AdminWeb/views/about.html",
+		"/C/xampp/htdocs/AdminWeb/scripts/controllers/PaginaController.js",
+		"/C/xampp/htdocs/AdminWeb/404.html",
+		"/C/xampp/htdocs/AdminWeb/styles/main.css",
+		"/C/xampp/htdocs/AdminWeb/scripts/controllers/main.js",
+		"/C/xampp/htdocs/AdminWeb/scripts/controllers/UserController.js",
+		"/C/xampp/htdocs/AdminWeb/scripts/controllers/miController.js",
+		"/C/xampp/htdocs/AdminWeb/views/user/index.html",
+		"/C/Dropbox/Programacion/Proyectos/WEB/MiProyecto/04_Aplicacion/MiProyecto/app/Http/Controllers/ProjectController.php",
+		"/C/Dropbox/Programacion/Proyectos/WEB/MiProyecto/04_Aplicacion/MiProyecto/.env",
+		"/C/Dropbox/Programacion/Proyectos/WEB/Angular/AdminWeb/index.html",
+		"/C/Dropbox/Programacion/Proyectos/WEB/Angular/AdminWeb/scripts/app.js",
+		"/C/Dropbox/Programacion/Proyectos/WEB/Angular/Prueba2/app/index.html",
+		"/C/Dropbox/Programacion/Proyectos/WEB/Angular/Prueba2/app/scripts/controllers/main.js",
+		"/C/Dropbox/Programacion/Proyectos/WEB/Angular/Prueba2/app/scripts/app.js",
+		"/C/Dropbox/Programacion/Proyectos/WEB/Angular/Prueba2/app/scripts/controllers/about.js",
+		"/C/Dropbox/Programacion/Proyectos/WEB/Angular/Prueba2/app/views/main.html",
+		"//192.168.70.252/Analista_de_negocios/PRESTAMOS/ACHARRIS/Taller/Proyectos/Guias/IntroduccionWeb/js/index.js",
+		"//192.168.70.252/Analista_de_negocios/PRESTAMOS/ACHARRIS/Taller/Proyectos/RadarPI/js/index.js",
+		"//192.168.70.252/Analista_de_negocios/PRESTAMOS/ACHARRIS/Taller/Proyectos/RadarPI/js/index2.js",
+		"//192.168.70.252/Analista_de_negocios/PRESTAMOS/ACHARRIS/Taller/Proyectos/RadarPI/index2.html",
+		"//192.168.70.252/Analista_de_negocios/PRESTAMOS/ACHARRIS/Taller/Proyectos/RadarPI/index.html",
+		"/C/Taller/Software/SublimeText3/Data/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Taller/Software/SublimeText3/Data/Packages/User/Emmet.sublime-settings",
+		"//192.168.70.252/Analista_de_negocios/PRESTAMOS/ACHARRIS/Taller/Proyectos/Guias/IntroduccionWeb/index.html",
+		"//192.168.70.252/Analista_de_negocios/PRESTAMOS/ACHARRIS/Taller/Proyectos/Guias/IntroduccionWeb/css/geometric-propias.css",
+		"//192.168.70.252/Analista_de_negocios/PRESTAMOS/ACHARRIS/Taller/Proyectos/Guias/IntroduccionWeb/css/mystyle.css",
+		"/C/Taller/Proyectos/RadarPI/css/geometric-figures.css",
+		"/C/Taller/Proyectos/RadarPI/css/geometric-propias.css",
+		"/C/Taller/Proyectos/RadarPI/index.html",
+		"/C/Taller/Proyectos/Guias/IntroduccionWeb/js/index.js",
+		"/C/Taller/Proyectos/Guias/IntroduccionWeb/index.html",
+		"/C/Taller/Proyectos/Guias/IntroduccionWeb/index2.html",
+		"/C/Taller/Software/SublimeText3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Taller/Software/SublimeText3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Taller/Proyectos/Guias/IntroduccionWeb/css/mystyle.css",
+		"/C/Taller/Proyectos/Guias/IntroduccionWeb/css/geometric-propias.css",
+		"/C/Taller/Proyectos/Guias/IntroduccionWeb/css/geometric-figures.css",
+		"/C/Taller/Proyectos/RadarPI/js/index.js",
+		"/C/Taller/Proyectos/RadarPI/css/mystyle.css",
+		"/C/Taller/Proyectos/Guias/IntroduccionWeb/lib/jquery/jquery-3.1.0.min.js",
+		"/C/Taller/Software/SublimeText3/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Taller/Proyectos/IntroduccionWeb/index.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button",
+			"ident"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Dropbox\\Programacion\\Proyectos\\WEB\\MiProyecto\\04_Aplicacion\\NuevaVersionNodeVue"
+		},
+		{
+			"path": "C:\\Personal\\Prototipos\\mi-aplicacion"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/acharris/Desktop/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										485,
+										490
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										373,
+										378
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
